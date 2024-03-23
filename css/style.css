@@ -48,3 +48,8 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+
+img {
+  border-radius: 50%;
+}
